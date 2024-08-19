@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyWFC.cpp.obj": [
+			"EasyWFC.init.gen.cpp.obj",
+			"WFCTile.gen.cpp.obj",
+			"EasyWFC.cpp.obj",
+			"WFCTile.cpp.obj"
+		]
+	}
+}

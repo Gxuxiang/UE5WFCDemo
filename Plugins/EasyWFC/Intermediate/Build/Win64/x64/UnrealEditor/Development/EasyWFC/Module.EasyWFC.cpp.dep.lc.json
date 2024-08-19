@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\easywfc\\module.easywfc.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\wfcdemo\\intermediate\\build\\win64\\x64\\wfcdemoeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\easywfc\\definitions.easywfc.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\unrealeditor\\inc\\easywfc\\uht\\easywfc.init.gen.cpp",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\unrealeditor\\inc\\easywfc\\uht\\wfcmap.gen.cpp",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\source\\easywfc\\public\\wfcmap.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\source\\easywfc\\public\\wfctile.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\unrealeditor\\inc\\easywfc\\uht\\wfctile.generated.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\unrealeditor\\inc\\easywfc\\uht\\wfcmap.generated.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\intermediate\\build\\win64\\unrealeditor\\inc\\easywfc\\uht\\wfctile.gen.cpp",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\source\\easywfc\\private\\easywfc.cpp",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\source\\easywfc\\public\\easywfc.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\source\\easywfc\\private\\wfcmap.cpp",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "d:\\project\\wfcdemo\\plugins\\easywfc\\source\\easywfc\\private\\wfctile.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
